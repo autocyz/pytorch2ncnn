@@ -1,5 +1,5 @@
 # Pytorch Converter
-Pytorch model [ncnn](https://github.com/Tencent/ncnn)
+Pytorch model to [ncnn](https://github.com/Tencent/ncnn)
 
 ## Usage
 - Put your own Pytorch network .py file and mode param file in `ModelFiles/`
